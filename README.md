@@ -7,21 +7,34 @@ A Streamlit interface lets users run queries, adjust filters, and view descripti
 
 Running the App
 1. Clone the repository
+```
 git clone https://github.com/Uri-H/BoardGameRecommender
 cd boardgame-recommender
+```
 
-2. (Optional) Create a virtual environment
+3. (Optional) Create a virtual environment
+```
 python -m venv venv
 source venv/bin/activate      # Mac/Linux
+```
 
 for windows:
+```
 .\venv\Scripts\activate     # Windows
+```
 
 3. Install dependencies
-pip install -r requirements.txt
 
-4. Run the Streamlit app
+```
+pip install -r requirements.txt
+```
+
+
+5. Run the Streamlit app
+
+```
 streamlit run app.py
+```
 
 This will open a browser window (usually at http://localhost:8501) where you can:
 
