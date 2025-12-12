@@ -1,6 +1,6 @@
 Board Game Recommender
 
-This project is a text-based information retrieval system that recommends board games from the BoardGameGeek dataset based on a natural-language query. 
+This project is a text-based information retrieval system that recommends board games from the BoardGameGeek dataset* based on a natural-language query. 
 Users can describe the type of game they want (e.g., “two-player strategic game, medium length”), and the system ranks games using TF-IDF cosine similarity or BM25.
 
 A Streamlit interface lets users run queries, adjust filters, and view descriptions of selected games.
@@ -43,6 +43,8 @@ Enter a natural-language query
 Select ranking method (TF-IDF or BM25)
 
 Adjust optional filters (players, playtime, complexity, rating, popularity)
+
+*dataset from Kaggle: https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews/data
 
 View the top recommended games
 
