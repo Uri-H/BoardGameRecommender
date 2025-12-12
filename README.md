@@ -44,11 +44,12 @@ Select ranking method (TF-IDF or BM25)
 
 Adjust optional filters (players, playtime, complexity, rating, popularity)
 
-*dataset from Kaggle: https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews/data
-
 View the top recommended games
 
 Select a game to view its description
 
 The repository includes a prebuilt dataset (data/games_corpus.csv), so no additional downloads are required to run the recommender.
+
+*dataset from Kaggle: https://www.kaggle.com/datasets/jvanelteren/boardgamegeek-reviews/data
+
 
