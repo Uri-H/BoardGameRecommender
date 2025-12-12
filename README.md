@@ -37,14 +37,3 @@ Select a game to view its description
 
 The repository includes a prebuilt dataset (data/games_corpus.csv), so no additional downloads are required to run the recommender.
 
-Repository Structure
-boardgame-recommender/
-├─ app.py                     
-├─ README.md                  
-├─ requirements.txt           
-├─ data/
-│  └─ games_corpus.csv        
-└─ src/
-   ├─ prepare_games_master.py 
-   ├─ prepare_reviews.py      
-   └─ prepare_corpus.py       
