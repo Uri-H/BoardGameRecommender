@@ -158,6 +158,7 @@ st.write(
 
 st.markdown(
     "**Example queries:**\n"
+    "- *\"trade, resources, building, roads, cities, hexagons, victory points, competition\"*\n"
     "- *\"party game for many people, easy rules, lots of laughter and social interaction\"*\n"
     "- *\"cooperative fantasy game with campaign and strong story\"*\n"
     "- *\"quick family game under 30 minutes for kids and adults\"*\n"
