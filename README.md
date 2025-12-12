@@ -9,7 +9,7 @@ Running the App
 1. Clone the repository
 ```
 git clone https://github.com/Uri-H/BoardGameRecommender
-cd boardgame-recommender
+cd BoardGameRecommender
 ```
 
 3. (Optional) Create a virtual environment
