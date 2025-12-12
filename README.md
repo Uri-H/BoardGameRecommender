@@ -1,9 +1,9 @@
 Board Game Recommender
 
-This project is a text-based information retrieval system that recommends board games from the BoardGameGeek dataset* based on a natural-language query. 
-Users can describe the type of game they want (e.g., “two-player strategic game, medium length”), and the system ranks games using TF-IDF cosine similarity or BM25.
-
-A Streamlit interface lets users run queries, adjust filters, and view descriptions of selected games.
+This project is a text-based information retrieval system that recommends board games from a BoardGameGeek dataset* based on a natural-language query. 
+Users can describe the type of game they want and the system ranks games using TF-IDF cosine similarity or BM25. 
+For example, if I was looking for games similar to "Catan" because I enjoyed it, I could type in "trade, resources, building, roads, hexagons, victory points, competition" and I will get some games from the Catan family and other games that are similar to Catan.
+The Streamlit interface lets you run queries, adjust filters, and view the descriptions of the top games.
 
 Running the App
 1. Clone the repository
